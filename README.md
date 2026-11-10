@@ -201,4 +201,4 @@ This repository serves as the official landing page for Actual Bandwidth. The so
 **Get the most recent version of Actual Bandwidth today!**
 
 ---
-**Last updated:** 2026-11-10 01:57:31 UTC
+**Last updated:** 2026-11-10 09:38:30 UTC
